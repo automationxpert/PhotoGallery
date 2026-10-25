@@ -31,7 +31,7 @@
     "check": "npm run lint && npm run format"
   },
   "dependencies": {
-    "astro": "^5.11.0",
+    "astro": "^7.3.3",
     "astro-relative-links": "^0.4.2",
     "blurhash": "^2.0.5",
     "photoswipe": "^5.4.4"
